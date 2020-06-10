@@ -146,6 +146,7 @@ i {
 .btn-hold { top: 467px;}
 
 .dice-one {
+    display: block;
     position: absolute;
     left: 50%;
     top: 300px;
@@ -155,6 +156,7 @@ i {
 }
 
 .dice-two {
+    display: block;
     position: absolute;
     left: 50%;
     top: 200px;
